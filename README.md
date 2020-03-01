@@ -1,3 +1,4 @@
 # interruption-mail-list-finder
 
-Access to the database to find people who will be sent an interruption mail
+
+desktop python application that accesses the database and finds contacts to send the interrupt e-mail
